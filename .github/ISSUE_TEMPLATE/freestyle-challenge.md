@@ -29,3 +29,7 @@ Please specify if your team is open for other BaselHack participants to join. Ba
 **Challenge Pitch**
 
 Please describe your challenge in 3 to 5 sentences.
+
+**Datasets**
+
+If applicable, please state what datasets are publicly avaialable or what private datasets you can bring to the hackathon.
